@@ -10,7 +10,7 @@
 
 ## What I Do
 
-- 🔍 **Talent Sourcing**: Identifying and engaging top-tier tech talent.
+- 🔍 **Talent Sourcing and growing**: Identifying and engaging top-tier tech talent.
 - 🤝 **Collaboration**: Working closely with hiring managers to understand their needs.
 - 📈 **Growth**: Helping companies build strong, innovative teams.
 - 💬 **Community**: Active participant in tech meetups and conferences.
